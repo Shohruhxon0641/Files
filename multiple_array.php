@@ -2,5 +2,5 @@
 
 
 $student = [
-    ['fio' => ] 
+    ['fio' => "AAA", 'group' => "941-18", 'age' => "20"] 
 ]
