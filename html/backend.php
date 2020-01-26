@@ -13,12 +13,12 @@
         $abs = false;
     }
     //php7 dan yuqori versiyalar uchun
-    $abs = $_POST['abs'] ?? false;
+    // $abs = $_POST['abs'] ?? false;
     $abc = $_POST['abc'] ?? false;
     
     var_dump($_POST); 
     
-    $kurs = 
+    // $kurs = 
 
 
 

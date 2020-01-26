@@ -30,16 +30,16 @@
             </div>
             <div>
                 <label for="">
-                    Test uchun misollar
-                    <input type="radio" name="abs" value="a"> A) Javob 1
-                    <input type="radio" name ="abs" value="b"> B)Javob 2
-                    <input type="radio" name="abs" value="c"> C) Javob 3
+                   <b> Pahlavon Mahmud kim bo'lgan: </b><br>
+                    <input type="radio" name="abs" value="Noto'g'ri"> A) Etikdo'z
+                    <input type="radio" name ="abs" value="Noto'g'ri"> B) Chavondoz
+                    <input type="radio" name="abs" value="To'g'ri"> C) Kurashchi
                 </label>
             </div>
             <div>
-                <input type="checkbox" name="abc" value="85"> Maktabni bitirganmisiz?
+                <input type="checkbox" name="abc" value="Maktabni tamomlagan"> Maktabni bitirganmisiz?
             </div>
-            <button type="sumbit">Yuboriw</button>
+            <button type="sumbit">Yuborish</button>
         </form>
     </body>
 </html> 
