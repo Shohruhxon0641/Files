@@ -3,6 +3,7 @@
     $hardler = fopen('test.txt', 'r');
 
     $data = fread($hardler, 10000);
-
-    var_dump($data);
+    echo $data;
+    //var_dump($data);
     fclose($hardler);
+    
